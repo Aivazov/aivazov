@@ -1,15 +1,7 @@
 # 👨‍💻 Tim | Fullstack Developer
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Typescript+%7C+React+%7C+Next.js;Node.js+%7C+MongoDB+%7C+Firebase+%7C+Supabase&center=true&width=500&height=45&color=00F7FF&vCenter=true&size=22">
-</p>
-
----
-
-# 👨‍💻 Tim | Fullstack Developer
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Fullstack+Developer;React+%7C+Next.js+%7C+Node.js;Building+real-world+web+apps+🚀&center=true&width=600&height=45&color=00F7FF&vCenter=true&size=22">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Typescript+%7C+React+%7C+Next.js;Node.js+%7C+MongoDB;Firebase+%7C+Supabase;Building+real-world+web+apps+🚀&center=true&width=500&height=45&color=00F7FF&vCenter=true&size=22">
 </p>
 
 ---
@@ -97,10 +89,10 @@ const tim = {
 
 ## 🚀 Featured Projects
 
->💬 **Chat App** — real-time messaging with Firebase auth & live updates
->🌦️ **Weather App** — API-based app with dynamic UI & async logic
->🎬 **Movie Search** — OMDb API integration with search optimization
->🎨 **Landing Pages** — responsive, pixel-perfect UI with animations
+- 💬 **Chat App** — real-time messaging with Firebase auth & live updates
+- 🌦️ **Weather App** — API-based app with dynamic UI & async logic
+- 🎬 **Movie Search** — OMDb API integration with search optimization
+- 🎨 **Landing Pages** — responsive, pixel-perfect UI with animations
 
 ---
 
