@@ -6,18 +6,37 @@
 
 ---
 
+# 👨‍💻 Tim | Fullstack Developer
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Fullstack+Developer;React+%7C+Next.js+%7C+Node.js;Building+real-world+web+apps+🚀&center=true&width=600&height=45&color=00F7FF&vCenter=true&size=22">
+</p>
+
+---
+
 ## 🧠 About Me
 
 ```js
 const tim = {
+  role: "Fullstack Developer",
   location: "Ukraine 🇺🇦",
-  role: "Frontend Developer → Fullstack (MERN)",
-  experience: "Started in 2022",
-  focus: ["React", "Next.js", "Node.js", "MongoDB", "Supabase", "Firebase"],
+  experience: "2+ years",
+  focus: "Building scalable web applications",
+  stack: ["React", "Next.js", "Node.js", "MongoDB", "Supabase", "Firebase"],
   english: "Upper-Intermediate",
-  passion: "Building real-world apps 🚀"
+  mindset: "Clean code, performance, UX matters",
 };
 ```
+
+---
+
+## 🚀 What I Do
+
+- ⚡ Build responsive and scalable web apps
+- 🧩 Develop fullstack applications (MERN / BaaS)
+- 🔌 Integrate REST APIs & real-time systems
+- 🎨 Create modern UI with attention to UX
+- 🚀 Optimize performance & architecture
 
 ---
 
@@ -78,15 +97,16 @@ const tim = {
 
 ## 🚀 Featured Projects
 
-💬 **Chat App** — real-time messaging (Firebase)
-🌦️ **Weather App** — API + async logic
-🎬 **Movie Search** — OMDb API integration
-🎨 **Landing Pages** — responsive & pixel-perfect UI
+>💬 **Chat App** — real-time messaging with Firebase auth & live updates
+>🌦️ **Weather App** — API-based app with dynamic UI & async logic
+>🎬 **Movie Search** — OMDb API integration with search optimization
+>🎨 **Landing Pages** — responsive, pixel-perfect UI with animations
 
 ---
 
 ## 🌐 Connect with Me
 
+💬 Open to opportunities & collaboration
 [![Portfolio](https://img.shields.io/badge/-Portfolio-0D1117?style=for-the-badge&logo=vercel)](https://welcome-to-tim.vercel.app/)
 [![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github)](https://github.com/YOUR_USERNAME)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0D1117?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/timur-aivazov)
@@ -97,3 +117,9 @@ const tim = {
 ## ⚡ Fun Fact
 
 > I turn coffee ☕ into code and ideas into real products 🚀
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
