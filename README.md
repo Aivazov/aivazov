@@ -13,7 +13,7 @@ const tim = {
   location: "Ukraine 🇺🇦",
   role: "Frontend Developer → Fullstack (MERN)",
   experience: "Started in 2022",
-  focus: ["React", "Next.js", "Node.js", "MongoDB", Supabase],
+  focus: ["React", "Next.js", "Node.js", "MongoDB", "Supabase", "Firebase"],
   passion: "Building real-world apps 🚀"
 };
 ```
