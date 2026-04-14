@@ -98,7 +98,6 @@ const tim = {
 
 ## 🌐 Connect with Me
 
-💬 Open to opportunities & collaboration
 [![Portfolio](https://img.shields.io/badge/-Portfolio-0D1117?style=for-the-badge&logo=vercel)](https://welcome-to-tim.vercel.app/)
 [![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github)](https://github.com/YOUR_USERNAME)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0D1117?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/timur-aivazov)
