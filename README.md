@@ -1,7 +1,7 @@
 # 👨‍💻 Tim | Fullstack Developer
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Frontend+Developer;Future+MERN+Engineer;React+%7C+Node+%7C+MongoDB&center=true&width=500&height=45&color=00F7FF&vCenter=true&size=22">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Fullstack+Developer;React+Next.js+%7C+Node.js+%7C+MongoDB+%7C+Firebase+%7C+Supabase&center=true&width=500&height=45&color=00F7FF&vCenter=true&size=22">
 </p>
 
 ---
@@ -36,11 +36,13 @@ const tim = {
 
 ---
 
-### 🛠️ Backend
+### 🛠️ Backend & BaaS
 
 ![Node](https://img.shields.io/badge/-Node.js-0D1117?style=for-the-badge\&logo=node.js)
 ![Express](https://img.shields.io/badge/-Express-0D1117?style=for-the-badge\&logo=express)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-0D1117?style=for-the-badge\&logo=mongodb)
+![Firebase](https://img.shields.io/badge/-Firebase-0D1117?style=for-the-badge&logo=firebase)
+![Supabase](https://img.shields.io/badge/-Supabase-0D1117?style=for-the-badge&logo=supabase)
 
 ---
 
