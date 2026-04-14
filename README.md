@@ -1,7 +1,7 @@
 # 👨‍💻 Tim | Fullstack Developer
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Fullstack+Developer;React+%7C+Next.js;Node.js+%7C+MongoDB+%7C+Firebase+%7C+Supabase&center=true&width=500&height=45&color=00F7FF&vCenter=true&size=22">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Typescript+%7C+React+%7C+Next.js;Node.js+%7C+MongoDB+%7C+Firebase+%7C+Supabase&center=true&width=500&height=45&color=00F7FF&vCenter=true&size=22">
 </p>
 
 ---
@@ -14,6 +14,7 @@ const tim = {
   role: "Frontend Developer → Fullstack (MERN)",
   experience: "Started in 2022",
   focus: ["React", "Next.js", "Node.js", "MongoDB", "Supabase", "Firebase"],
+  english: "Upper-Intermediate",
   passion: "Building real-world apps 🚀"
 };
 ```
@@ -86,8 +87,10 @@ const tim = {
 
 ## 🌐 Connect with Me
 
-[![Portfolio](https://img.shields.io/badge/-Portfolio-0D1117?style=for-the-badge\&logo=vercel)](https://welcome-to-tim.vercel.app/)
-[![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge\&logo=github)](https://github.com/YOUR_USERNAME)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-0D1117?style=for-the-badge&logo=vercel)](https://welcome-to-tim.vercel.app/)
+[![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github)](https://github.com/YOUR_USERNAME)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0D1117?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/timur-aivazov)
+[![Telegram](https://img.shields.io/badge/-Telegram-0D1117?style=for-the-badge&logo=telegram)](https://t.me/Timur_Av)
 
 ---
 
