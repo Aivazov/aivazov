@@ -24,15 +24,35 @@ const tim = {
 
 ### 🖥️ Frontend
 
-![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge\&logo=html5)
-![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge\&logo=css3)
-![SASS](https://img.shields.io/badge/-SASS-0D1117?style=for-the-badge\&logo=sass)
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge\&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-0D1117?style=for-the-badge\&logo=typescript)
-![React](https://img.shields.io/badge/-React-0D1117?style=for-the-badge\&logo=react)
-![Next](https://img.shields.io/badge/-Next.js-0D1117?style=for-the-badge\&logo=next.js)
-![Redux](https://img.shields.io/badge/-Redux-0D1117?style=for-the-badge\&logo=redux)
-![Tailwind](https://img.shields.io/badge/-Tailwind-0D1117?style=for-the-badge\&logo=tailwindcss)
+#### 💻 Core
+![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=css3)
+![SASS](https://img.shields.io/badge/-SASS-0D1117?style=for-the-badge&logo=sass)
+![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-0D1117?style=for-the-badge&logo=typescript)
+
+---
+
+#### ⚛️ Frameworks
+![React](https://img.shields.io/badge/-React-0D1117?style=for-the-badge&logo=react)
+![Next.js](https://img.shields.io/badge/-Next.js-0D1117?style=for-the-badge&logo=next.js)
+
+---
+
+#### 🧠 State Management
+![Redux](https://img.shields.io/badge/-Redux-0D1117?style=for-the-badge&logo=redux)
+![Zustand](https://img.shields.io/badge/-Zustand-0D1117?style=for-the-badge)
+
+---
+
+#### 🎨 UI / Styling
+![Tailwind](https://img.shields.io/badge/-TailwindCSS-0D1117?style=for-the-badge&logo=tailwindcss)
+![MaterialUI](https://img.shields.io/badge/-MaterialUI-0D1117?style=for-the-badge&logo=mui)
+
+---
+
+#### 🎬 Animation
+![Framer Motion](https://img.shields.io/badge/-Framer%20Motion-0D1117?style=for-the-badge&logo=framer)
 
 ---
 
