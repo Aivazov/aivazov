@@ -1,7 +1,7 @@
 # 👨‍💻 Tim | Fullstack Developer
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Typescript%20%7C%20React%20%7C%20Next.js; Node.js%20%7C%20MongoDB%20%7C%20Firebase%20%7C%20Supabase;Building%20real-world%20web%20apps%20🚀&center=true&width=500&height=45&color=00F7FF&vCenter=true&size=22">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Typescript+%7C+React+%7C+Next.js; Node%2Ejs+%7C+MongoDB+%7C+Firebase+%7C+Supabase;Building+real-world+web+apps+🚀&center=true&width=500&height=45&color=00F7FF&vCenter=true&size=22">
 </p>
 
 ---
