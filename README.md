@@ -1,17 +1,17 @@
-# 👨‍💻 Tim | Fullstack Developer
+# Tim | Fullstack Developer
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Typescript+%7C+React+%7C+Next.js;·Node%2Ejs+%7C+MongoDB+%7C+Firebase+%7C+Supabase;Building+real-world+web+apps+🚀&center=true&width=500&height=45&color=00F7FF&vCenter=true&size=22">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Typescript+%7C+React+%7C+Next.js;·Node%2Ejs+%7C+MongoDB+%7C+Firebase+%7C+Supabase;Building+real-world+web+apps+&center=true&width=500&height=45&color=00F7FF&vCenter=true&size=22">
 </p>
 
 ---
 
-## 🧠 About Me
+## About Me
 
 ```js
 const tim = {
   role: "Fullstack Developer",
-  location: "Ukraine 🇺🇦",
+  location: "Odesa, Ukraine",
   experience: "2+ years",
   focus: "Building scalable web applications",
   stack: ["React", "Next.js", "Node.js", "MongoDB", "Supabase", "Firebase"],
@@ -22,21 +22,21 @@ const tim = {
 
 ---
 
-## 🚀 What I Do
+## What I Do
 
-- ⚡ Build responsive and scalable web apps
-- 🧩 Develop fullstack applications (MERN / BaaS)
-- 🔌 Integrate REST APIs & real-time systems
-- 🎨 Create modern UI with attention to UX
-- 🚀 Optimize performance & architecture
+- Build responsive and scalable web apps
+- Develop fullstack applications (MERN / BaaS)
+- Integrate REST APIs & real-time systems
+- Create modern UI with attention to UX
+- Optimize performance & architecture
 
 ---
 
-## ⚙️ Tech Stack
+## Tech Stack
 
-### 🖥️ Frontend
+### Frontend
 
-#### 💻 Core
+#### Core
 ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=css3)
 ![SASS](https://img.shields.io/badge/-SASS-0D1117?style=for-the-badge&logo=sass)
@@ -45,30 +45,30 @@ const tim = {
 
 ---
 
-#### ⚛️ Frameworks
+#### Frameworks
 ![React](https://img.shields.io/badge/-React-0D1117?style=for-the-badge&logo=react)
 ![Next.js](https://img.shields.io/badge/-Next.js-0D1117?style=for-the-badge&logo=next.js)
 
 ---
 
-#### 🧠 State Management
+#### State Management
 ![Redux](https://img.shields.io/badge/-Redux-0D1117?style=for-the-badge&logo=redux)
 ![Zustand](https://img.shields.io/badge/-Zustand-0D1117?style=for-the-badge)
 
 ---
 
-#### 🎨 UI / Styling
+#### UI / Styling
 ![Tailwind](https://img.shields.io/badge/-TailwindCSS-0D1117?style=for-the-badge&logo=tailwindcss)
 ![MaterialUI](https://img.shields.io/badge/-MaterialUI-0D1117?style=for-the-badge&logo=mui)
 
 ---
 
-#### 🎬 Animation
+#### Animation
 ![Framer Motion](https://img.shields.io/badge/-Framer%20Motion-0D1117?style=for-the-badge&logo=framer)
 
 ---
 
-### 🛠️ Backend & BaaS
+### Backend & BaaS
 
 ![Node](https://img.shields.io/badge/-Node.js-0D1117?style=for-the-badge\&logo=node.js)
 ![Express](https://img.shields.io/badge/-Express-0D1117?style=for-the-badge\&logo=express)
@@ -78,7 +78,7 @@ const tim = {
 
 ---
 
-### 🧰 Tools
+### Tools
 
 ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge\&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge\&logo=github)
@@ -87,16 +87,16 @@ const tim = {
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-- 💬 **Chat App** — real-time messaging with Firebase auth & live updates
-- 🌦️ **Weather App** — API-based app with dynamic UI & async logic
-- 🎬 **Movie Search** — OMDb API integration with search optimization
-- 🎨 **Landing Pages** — responsive, pixel-perfect UI with animations
+- **Chat App** — real-time messaging with Firebase auth & live updates
+- **Weather App** — API-based app with dynamic UI & async logic
+- **Movie Search** — OMDb API integration with search optimization
+- **Landing Pages** — responsive, pixel-perfect UI with animations
 
 ---
 
-## 🌐 Connect with Me
+## Contact
 
 [![Portfolio](https://img.shields.io/badge/-Portfolio-0D1117?style=for-the-badge&logo=vercel)](https://welcome-to-tim.vercel.app/)
 [![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github)](https://github.com/YOUR_USERNAME)
@@ -107,7 +107,7 @@ const tim = {
 
 ## ⚡ Fun Fact
 
-> I turn coffee ☕ into code and ideas into real products 🚀
+> I turn coffee into code and ideas into real products
 
 ---
 
